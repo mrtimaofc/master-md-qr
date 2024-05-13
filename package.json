@@ -7,17 +7,21 @@
     },
     "author" : "VihangaYT",
     "dependencies": {
-       "@adiwajshing/baileys": "git+https://github.com/vihangayt0/Baileys.git",
+        "@whiskeysockets/baileys": "git+https://github.com/prabathLK/PRABATH-MD-baileys.git", 
         "@adiwajshing/keyed-db": "^0.2.4",
         "axios": "^0.24.0",
-        "qr-with-logo": "^1.0.5",
-        "wa_set_pkg": "1.0.1",
         "chalk": "^4.1.2",
         "child_process": "^1.0.2",
         "fs": "0.0.1-security",
         "os": "^0.1.2",
         "pino": "^7.0.5",
-        "megajs": "^1.1.0",
+        "jimp": "^0.16.1",
+        "qrcode":"1.5.3",
+        "megajs": "1.1.7",
+        "express": "latest",
+        "path": "^0.12.7",
+        "ws": "^8.16.0",
+        "http":"0.0.1-security",
         "qrcode-terminal": "^0.12.0"
     }
 }
